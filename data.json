@@ -28,8 +28,8 @@
     {
     "id": "top-digital-marketing-trends-2025",
     "url": "top-digital-marketing-trends-2025",
-    "canonicalUrl": "https://yourwebsite.com/blog/top-digital-marketing-trends-2025",
-    "ogUrl": "https://yourwebsite.com/blog/top-digital-marketing-trends-2025",
+    "canonicalUrl": "https://ananddigitalblog.vercel.app/top-digital-marketing-trends-2025",
+    "ogUrl": "https://ananddigitalblog.vercel.app/top-digital-marketing-trends-2025",
     "heading": "Top Digital Marketing Trends in 2025: What You Need to Know",
     "description": "Home > Blog > Digital Marketing Trends 2025",
     "metaTitle": "Digital Marketing Trends 2025: Stay Ahead of the Curve",
@@ -565,8 +565,69 @@
     "filename": ""
     
     
-  }
-
-
+  },
+  {
+    "id": "how-to-write-seo-friendly-content-2025",
+    "url": "how-to-write-seo-friendly-content-2025",
+    "canonicalUrl": "https://ananddigitalblog.vercel.app/how-to-write-seo-friendly-content-2025",
+    "ogUrl": "https://ananddigitalblog.vercel.app/how-to-write-seo-friendly-content-2025",
+    "heading": "How to Write SEO-Friendly Content in 2025: Tips That Work",
+    "description": "Home > Blog > Writing SEO-Friendly Content 2025",
+    "metaTitle": "SEO-Friendly Content Writing in 2025: Best Practices",
+    "metaDescription": "Learn to write SEO-friendly content in 2025 with actionable tips.",
+    "keywords": "SEO content 2025, SEO writing, content optimization",
+    "category": "Content",
+    "bannerImg": "https://img.freepik.com/free-photo/content-writing-concept_23-2148761750.jpg",
+    "paragraph2": "<section><h2>Introduction: Content Is King</h2><p>Good content ranks well. Here’s how to make it SEO-friendly.</p></section><section><h2>1. Research Keywords</h2><p>Target long-tail keywords with low competition.</p></section><section><h2>2. Write Engaging Headlines</h2><p>Use numbers or questions to grab attention.</p></section><section><h2>3. Add Visuals</h2><p>Images and videos enhance engagement.</p></section><section><h2>Conclusion</h2><p>Write smart to win in 2025.</p></section>",
+    "author": "Ankit Anand",
+    "date": "March 24, 2025"
+},
+{
+    "id": "optimize-website-for-mobile-2025",
+    "url": "optimize-website-for-mobile-2025",
+    "canonicalUrl": "https://ananddigitalblog.vercel.app/optimize-website-for-mobile-2025",
+    "ogUrl": "https://ananddigitalblog.vercel.app/optimize-website-for-mobile-2025",
+    "heading": "How to Optimize Your Website for Mobile in 2025",
+    "description": "Home > Blog > Mobile Optimization 2025",
+    "metaTitle": "Mobile Optimization in 2025: SEO Must-Dos",
+    "metaDescription": "Make your website mobile-friendly in 2025 with these tips.",
+    "keywords": "mobile optimization 2025, mobile SEO, responsive design",
+    "category": "Web",
+    "bannerImg": "https://img.freepik.com/free-photo/mobile-optimization-concept_23-2148761752.jpg",
+    "paragraph2": "<section><h2>Introduction: Mobile First</h2><p>Mobile traffic is huge—optimize for it.</p></section><section><h2>1. Responsive Design</h2><p>Adapt to all screen sizes.</p></section><section><h2>2. Speed Up</h2><p>Fast load times keep users happy.</p></section><section><h2>3. Easy Navigation</h2><p>Simplify menus for touchscreens.</p></section><section><h2>Conclusion</h2><p>Mobile optimization boosts SEO.</p></section>",
+    "author": "Ankit Anand",
+    "date": "March 26, 2025"
+},
+{
+    "id": "create-effective-ppc-campaigns-2025",
+    "url": "create-effective-ppc-campaigns-2025",
+    "canonicalUrl": "https://ananddigitalblog.vercel.app/create-effective-ppc-campaigns-2025",
+    "ogUrl": "https://ananddigitalblog.vercel.app/create-effective-ppc-campaigns-2025",
+    "heading": "How to Create Effective PPC Campaigns in 2025",
+    "description": "Home > Blog > PPC Campaigns 2025",
+    "metaTitle": "PPC Campaigns in 2025: Best Practices",
+    "metaDescription": "Learn how to create high-performing PPC campaigns in 2025.",
+    "keywords": "PPC 2025, PPC campaigns, pay-per-click",
+    "category": "Advertise",
+    "bannerImg": "https://img.freepik.com/free-photo/ppc-concept_23-2148761753.jpg",
+    "paragraph2": "<section><h2>Introduction: PPC Power</h2><p>PPC drives instant traffic. Here’s how to succeed in 2025.</p></section><section><h2>1. Target Keywords</h2><p>Choose specific, high-intent terms.</p></section><section><h2>2. Craft Ads</h2><p>Write compelling ad copy.</p></section><section><h2>3. Monitor Results</h2><p>Adjust bids based on performance.</p></section><section><h2>Conclusion</h2><p>PPC works with the right strategy.</p></section>",
+    "author": "Ankit Anand",
+    "date": "March 27, 2025"
+},{
+    "id": "market-services-online-2025",
+    "url": "market-services-online-2025",
+    "canonicalUrl": "https://ananddigitalblog.vercel.app/market-services-online-2025",
+    "ogUrl": "https://ananddigitalblog.vercel.app/market-services-online-2025",
+    "heading": "How to Market Your Services Online in 2025",
+    "description": "Home > Blog > Service Marketing 2025",
+    "metaTitle": "Online Service Marketing in 2025: Best Practices",
+    "metaDescription": "Discover how to market your services online in 2025.",
+    "keywords": "service marketing 2025, online marketing, service business",
+    "category": "Services",
+    "bannerImg": "https://img.freepik.com/free-photo/service-marketing-concept_23-2148761754.jpg",
+    "paragraph2": "<section><h2>Introduction: Service Success</h2><p>Online marketing grows service businesses. Here’s how.</p></section><section><h2>1. Build a Website</h2><p>Showcase your services clearly.</p></section><section><h2>2. Use Social Media</h2><p>Engage clients on platforms they use.</p></section><section><h2>3. Offer Value</h2><p>Share tips to attract leads.</p></section><section><h2>Conclusion</h2><p>Market smart to win clients.</p></section>",
+    "author": "Ankit Anand",
+    "date": "March 28, 2025"
+}
   
 ]
